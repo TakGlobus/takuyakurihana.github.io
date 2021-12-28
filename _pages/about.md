@@ -19,7 +19,7 @@ including meteorology, remote sensing, and bioinformatics.
 
 
 ## Upcoming or recent activities 
-- December, 15, 2021: I presented a poster in AGU Fall meeting 2021. Link to my poster [\[AGU21\]](https://takglobus.github.io/takuyakurihana.github.io/files/poster/A35C-1635-TakuyaKurihana-AGU2021.pdf) 
+- December, 15, 2021: I presented a poster in AGU Fall meeting 2021. Link to my poster [\[AGU21\]](https://takglobus.github.io/takuyakurihana.github.io/files/posters/A35C-1635-TakuyaKurihana-AGU2021.pdf) 
 - I'm back to Chicago from the summer internship in the [Woven Planet Holdings](https://www.woven-planet.global/en/woven-alpha/AMP) at Tokyo! 
 - October, 10, 2021: Our abstract [Cloud Clustering Applied to MODIS Calibrated Radiances Over 2003 via Rotationally Invariant Autoencoder](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/985693) is accepted by [AGU2021](https://www.agu.org/Fall-Meeting). 
 - September, 23, 2021: I presented a poster in [IEEE 17th International Conference on eScience](https://ieeexplore.ieee.org/abstract/document/9582325). 
