@@ -24,9 +24,4 @@ including meteorology, remote sensing, and bioinformatics.
 - October, 10, 2021: Our abstract [Cloud Clustering Applied to MODIS Calibrated Radiances Over 2003 via Rotationally Invariant Autoencoder](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/985693) is accepted by [AGU2021](https://www.agu.org/Fall-Meeting). 
 - September, 23, 2021: I presented a poster in [IEEE 17th International Conference on eScience](https://ieeexplore.ieee.org/abstract/document/9582325). 
 - July, 27, 2021: Our [Rotation-Invariance Cloud Clustering](https://ieeexplore.ieee.org/document/9497325) is accepted by IEEE Transactions on Geoscience and Remote Sensing.   
-#- March, 3, 2021: Our [Rotation-Invariance Cloud Clustering](https://arxiv.org/abs/2103.04885) paper has been published in arxiv (under review by IEEE TGRS).
-#- December 15, 2020: I presented [Data driven unsupervised cloud classification framework](https://www.star.nesdis.noaa.gov/star/documents/meetings/2020AI/posters/SessionII/20201215_Kurihana_R1.pdf) poster at the [2nd NOAA Workshop on Leveraging AI in Environmental Sciences](https://www.star.nesdis.noaa.gov/star/meeting_2020AIWorkshop_agenda.php#).
-#- December 15, 2020: I successfully defended Masters Thesis: “A Data-driven Novel Cloud Classification Framework based on An Efficient Cloud Representation via Rotational and Non-Rotational Invariant Autoencoder.”
-#- December  9, 2020: Our recent [Data-driven unsupervised cloud classification framework](https://agu2020fallmeeting-agu.ipostersessions.com/default.aspx?s=6F-FE-57-B0-35-A0-F1-E1-15-B7-22-81-57-4F-95-82&guestview=true) has been presented at [AGU Fall Meeting 2020](https://www.agu.org/fall-meeting).
-
 
