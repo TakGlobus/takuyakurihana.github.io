@@ -8,6 +8,8 @@ featured: true
 teaser: "We develop self-supervised data-driven methods for the application on satellite clouds imagery"
 description: Automation of classificaiton of fluffy "cloud" in the air identify different cloud types, and the properties to improve understanding of cloud dynamics and feedback. We are developing unsupervised machine learning methods capable of clustering several hundreds of TB of satellite cloud imagery without any assumptions concerning artificial cloud categories.  
 ---
+
+
 ### Project outline
 Clouds represent the single largest uncertainty in projections of future climate change.
 Their multi-scale nature means that even state-of-the-art numerical climate simulations cannot reliably project how their distribution, frequency, and properties will alter under high-CO~2~ conditions.
