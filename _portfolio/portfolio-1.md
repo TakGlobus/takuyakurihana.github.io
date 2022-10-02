@@ -4,7 +4,7 @@ collection: "portfolio"
 excerpt: "Automation of classificaiton of fluffy cloud in the air identify different cloud types, and the properties to improve understanding of cloud dynamics and feedback. We are developing unsupervised machine learning methods capable of clustering several hundreds of TB of satellite cloud imagery without any assumptions concerning artificial cloud categories."
 ---
 
-![clouds](/images/clouds.png)
+![clouds]({{ "/images/clouds.png" | absolute_url }})
 
 ### Project outline
 Clouds represent the single largest uncertainty in projections of future climate change.
