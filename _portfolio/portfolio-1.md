@@ -1,7 +1,6 @@
-
 ---
-title:  "Clouds"
-collection: portfolio
+title: "Clouds"
+collection: "portfolio"
 ---
 
 
