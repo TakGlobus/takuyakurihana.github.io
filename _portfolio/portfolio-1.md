@@ -1,7 +1,7 @@
 ---
 title: "Clouds"
 collection: "portfolio"
-excerpt: "Automation of classificaiton of fluffy "cloud" in the air identify different cloud types, and the properties to improve understanding of cloud dynamics and feedback. We are developing unsupervised machine learning methods capable of clustering several hundreds of TB of satellite cloud imagery without any assumptions concerning artificial cloud categories.  <br/><img src='/images/clouds.png'>"
+excerpt: "Automation of classificaiton of fluffy cloud in the air identify different cloud types, and the properties to improve understanding of cloud dynamics and feedback. We are developing unsupervised machine learning methods capable of clustering several hundreds of TB of satellite cloud imagery without any assumptions concerning artificial cloud categories.  <br/><img src='/images/clouds.png'>"
 ---
 
 
