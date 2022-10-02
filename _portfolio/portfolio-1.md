@@ -4,9 +4,6 @@ published: true
 title:  "Clouds"
 image: "clouds.png"
 collection: portfolio
-featured: true
-teaser: "We develop self-supervised data-driven methods for the application on satellite clouds imagery"
-description: Automation of classificaiton of fluffy "cloud" in the air identify different cloud types, and the properties to improve understanding of cloud dynamics and feedback. We are developing unsupervised machine learning methods capable of clustering several hundreds of TB of satellite cloud imagery without any assumptions concerning artificial cloud categories.  
 ---
 
 
