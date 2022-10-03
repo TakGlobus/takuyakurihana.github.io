@@ -18,7 +18,12 @@ Clouds project therefore proposes, **Rotation-Invariant Cloud Clustering (RICC)*
 
 RICC will enable the data-driven diagnosis of patterns of cloud organization, provide insight into their evolution on timescales of hours to decades, and contribute to a democratization of climate research by facilitating access to core data.
 
+### AICCA dataset
+Tries it on [AICCA CSV Dataset](https://github.com/RDCEP/clouds#csv-format-complete-2000----2021)
+You need to register [Globus](https://www.globus.org/data-transfer), a high-speed file transfer service, to download our AICCA data to your local/cluster machines. 
+
 ### Selected publications
+- [AICCA: AI-driven Cloud Classification Atlas](https://arxiv.org/abs/2209.15096)
 - [Data-Driven Cloud Clustering via a Rotationally Invariant Autoencoder](https://ieeexplore.ieee.org/document/9497325)
 - [Cloud Classification with Unsupervised Deep Learning](https://par.nsf.gov/servlets/purl/10195161)
 
