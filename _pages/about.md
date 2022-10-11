@@ -19,6 +19,8 @@ including meteorology, remote sensing, and bioinformatics.
 
 
 ## Upcoming or recent activities 
+- Oct. 11, 2022: FDL Digital Twin abstract is accepted by AGU Fall meeting 2022 as a poster presentations: [H45L-1534 - Physics-informed surrogate modeling for supporting climate resilience at groundwater contamination sites](https://agu.confex.com/agu/fm22/prelim.cgi/Paper/1097258)
+- Oct. 11, 2022: Our cloud abstracs are accepted by AGU Fall meeting 2022 as Oral presentations: [GC16C-06 - Global-scale unsupervised cloud classification to construct a novel AI-driven Cloud Classification Atlas (AICCA)](https://agu.confex.com/agu/fm22/prelim.cgi/Paper/1155129) and [A55N-1294 - Estimating the Impact of Large-scale Natural Aerosol Injections on Marine Cloud Populations with Unsupervised Classification in MODIS Images](https://agu.confex.com/agu/fm22/prelim.cgi/Paper/1186159)
 - Aug, 12, 2022: Our FDL work is presented in [FDL 2022 Live showcase](https://frontierdevelopmentlab.org/live).
 - June, 13, 2022: I joined the [Frontier Development Lab](https://frontierdevelopmentlab.org/) as a summer internship researcher! I work with "Digital Twin: Environmental Remediation" team to develop climate-groundwater digital twin application. 
 - December, 15, 2021: I presented a poster in AGU Fall meeting 2021. Link to my poster [\[AGU21\]](https://takglobus.github.io/takuyakurihana.github.io/files/posters/A35C-1635-TakuyaKurihana-AGU2021.pdf) 
