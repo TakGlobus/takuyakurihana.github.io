@@ -8,24 +8,10 @@ redirect_from:
 ---
 
 ## BIO
-I’m a fifth year Ph.D student in the [Globus labs](https://labs.globus.org/) advised by Dr. [Ian Foster](https://www.anl.gov/profile/ian-t-foster),
-at [The University of Chicago, Department of Computer Science](https://www.cs.uchicago.edu/). 
-I received B.S. and M.S. degree in Meteorology from University of Tsukuba, Japan 
-and M.S degree in Computer Science from The University of Chicago, USA. See [\[CV\]](https://takglobus.github.io/takuyakurihana.github.io/files/cv_takuya_kurihana_latest.pdf) for my full resume. 
+Takuya is a postdoctoral research associate at the [Oak Ridge National Laboratory](https://www.ornl.gov/staff-profile/takuya-kurihana). I earned Ph.D. in Computer Science from the University of Chicago under the amazing mentorship of [Ian Foster](https://www.anl.gov/profile/ian-t-foster) at [Globus labs](https://labs.globus.org/).
+During my Ph.D. I focused on developing cutting-edge deep neural networks for remote sensing and climate dataset. 
+I received B.S. degree in Meteorology from University of Tsukuba, Japan. See [\[CV\]](https://takglobus.github.io/takuyakurihana.github.io/files/cv_takuya_kurihana_June2024.pdf) for my full academic resume. 
 
-My research interests focus in the area of data science; application of deep learning, machine learning, high performance computing, large-scale data science, and cloud physics. 
-In particular, I have studied topics in unsupervised and semi-supervised deep learning applications towards a variety of natural science fields, 
-including meteorology, remote sensing, and bioinformatics.
-
-
-## Upcoming or recent activities 
-- Oct. 11, 2022: FDL Digital Twin abstract is accepted by AGU Fall meeting 2022 as a poster presentations: [H45L-1534 - Physics-informed surrogate modeling for supporting climate resilience at groundwater contamination sites](https://agu.confex.com/agu/fm22/prelim.cgi/Paper/1097258)
-- Oct. 11, 2022: Our cloud abstracs are accepted by AGU Fall meeting 2022 as Oral presentations: [GC16C-06 - Global-scale unsupervised cloud classification to construct a novel AI-driven Cloud Classification Atlas (AICCA)](https://agu.confex.com/agu/fm22/prelim.cgi/Paper/1155129) and [A55N-1294 - Estimating the Impact of Large-scale Natural Aerosol Injections on Marine Cloud Populations with Unsupervised Classification in MODIS Images](https://agu.confex.com/agu/fm22/prelim.cgi/Paper/1186159)
-- Aug, 12, 2022: Our FDL work is presented in [FDL 2022 Live showcase](https://frontierdevelopmentlab.org/live).
-- June, 13, 2022: I joined the [Frontier Development Lab](https://frontierdevelopmentlab.org/) as a summer internship researcher! I work with "Digital Twin: Environmental Remediation" team to develop climate-groundwater digital twin application. 
-- December, 15, 2021: I presented a poster in AGU Fall meeting 2021. Link to my poster [\[AGU21\]](https://takglobus.github.io/takuyakurihana.github.io/files/posters/A35C-1635-TakuyaKurihana-AGU2021.pdf) 
-- I'm back to Chicago from the summer internship in the [Woven Planet Holdings](https://www.woven-planet.global/en/woven-alpha/AMP) at Tokyo! 
-- October, 10, 2021: Our abstract [Cloud Clustering Applied to MODIS Calibrated Radiances Over 2003 via Rotationally Invariant Autoencoder](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/985693) is accepted by [AGU2021](https://www.agu.org/Fall-Meeting). 
-- September, 23, 2021: I presented a poster in [IEEE 17th International Conference on eScience](https://ieeexplore.ieee.org/abstract/document/9582325). 
-- July, 27, 2021: Our [Rotation-Invariance Cloud Clustering](https://ieeexplore.ieee.org/document/9497325) is accepted by IEEE Transactions on Geoscience and Remote Sensing.   
+My research interests focus in the area of data science; application of deep learning, machine learning, high performance computing, large-scale data science. 
+In particular, I have studied topics in self-supervised / semi-supervised learning, generative models, vision foundation models, and large language models (LLMs), contributing to the innovative intersection of AI and environmental science.
 

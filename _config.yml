@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Takuya Kurihana"
 title_separator          : "-"
 name                     : &name "Takuya Kurihana"
-description              : &description "Third year Computer Science Ph.D student at The University of Chicago"
+description              : &description "Postdoctoral Researcher at The Oak Ridge National Laboratory"
 url                      : https://takglobus.github.io/takuyakurihana.github.io/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "takuyakurihana.github.io"
@@ -81,12 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Takuya Kurihana"
-  avatar           : "headshot2.jpg"
-  bio              : "I am a fifth year Computer Science Ph.D strudent at The University of Chicago."
+  avatar           : "headshot3.jpg"
+  bio              : "I am a postdoctoral research associate at the ORNL (Ph.D in CS at The University of Chicago)"
   location         : "Chicago, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : "tkurihana@cs.uchicago.edu"
+  #email            : "tkurihana@cs.uchicago.edu"
+  email            : "kurihanat@ornl.gov"
   googlescholar    : "https://scholar.google.com/citations?user=LLiE6ZUAAAAJ&hl=ja"
   github           : "TakGlobus"
   email            :
