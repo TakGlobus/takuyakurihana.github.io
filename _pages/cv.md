@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+
+<iframe src="{{ '/files/cv_takuya_kurihana_latest.pdf' | relative_url }}" width="600" height="800" style="border: none;"></iframe>
+
 {% include base_path %}
-Download here [\[CV\]](https://takglobus.github.io/takuyakurihana.github.io/files/cv_takuya_kurihana_latest.pdf) for my full resume. 
+you can also download directly here [\[CV\]](https://takglobus.github.io/takuyakurihana.github.io/files/cv_takuya_kurihana_latest.pdf) for my full resume. 
 
