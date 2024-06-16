@@ -83,7 +83,8 @@ author:
   name             : "Takuya Kurihana"
   avatar           : "headshot3.jpg"
   bio              : "I am a postdoctoral research associate at the ORNL (Ph.D in CS at The University of Chicago)"
-  location         : "Chicago, IL"
+  location         : "Oak Ridge, TN"
+  #location         : "Chicago, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #email            : "tkurihana@cs.uchicago.edu"

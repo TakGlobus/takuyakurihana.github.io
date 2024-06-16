@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<object data="{{ '/assets/cv_takuya_kurihana_June2024.pdf' | relative_url }}" width="1000" height="1000" type="application/pdf"></object>
+<iframe src="{{ site.baseurl }}/assets/cv_takuya_kurihana_June2024.pdf" width="100%" height="600px"></iframe>
+
 
 {% include base_path %}
 you can also download directly here [\[CV\]](https://takglobus.github.io/takuyakurihana.github.io/assets/cv_takuya_kurihana_June2024.pdf) for my full resume. 
