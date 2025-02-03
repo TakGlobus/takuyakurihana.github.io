@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+<h2>My Publications</h2>
+
 <ul>
   {% for pub in site.data.publications %}
     <li>
