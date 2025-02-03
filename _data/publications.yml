@@ -1,183 +1,222 @@
 publications:
 - authors: Takuya Kurihana and Elisabeth Moyer and Rebecca Willett and Davis Gilton
     and Ian Foster
+  citation: IEEE Transactions on Geoscience and Remote Sensing, 1-25, 2021
   title: Data-Driven Cloud Clustering via a Rotationally Invariant Autoencoder
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=9755029313679570190
+  url: https://ieeexplore.ieee.org/abstract/document/9497325/
   year: 2021
 - authors: Takuya Kurihana and Elisabeth J Moyer and Ian T Foster
+  citation: Remote Sensing 14 (22), 5690, 2022
   title: 'AICCA: AI-driven cloud classification atlas'
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=15036309681794362108
+  url: https://www.mdpi.com/2072-4292/14/22/5690
   year: 2022
 - authors: Takuya Kurihana and Ian Foster and Rebecca Willett and Sydney Jenkins and
     Kathryn Koenig and Ruby Werman and Ricardo Barros Lourenco and Casper Neo and
     Elisabeth Moyer
+  citation: Proceedings for Climate Informatics Workshop 2019 Paris, 2019
   title: Cloud characterization with unsupervised deep learning,
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=16283426708685835282
+  url: ''
   year: 2019
 - authors: Aurelien Meray and Lijing Wang and Takuya Kurihana and Ilijana Mastilovic
     and Satyarth Praveen and Zexuan Xu and Milad Memarzadeh and Alexander Lavin and
     Haruko Wainwright
+  citation: Computers & Geosciences 183, 105508, 2024
   title: Physics-informed surrogate modeling for supporting climate resilience at
     groundwater contamination sites
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=9149712741501805882
+  url: https://www.sciencedirect.com/science/article/pii/S0098300423002121
   year: 2024
 - authors: Takuya Kurihana and Ilijana Mastilovic and Lijing Wang and Aurelien Meray
     and Satyarth Praveen and Zexuan Xu and Milad Memarzadeh and Alexander Lavin and
     Haruko Wainwright
+  citation: Artificial Intelligence for the Earth Systems, 2024
   title: Identifying Climate Patterns using Clustering Autoencoder Techniques
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=3397202087792722945
+  url: https://journals.ametsoc.org/view/journals/aies/aop/AIES-D-23-0035.1/AIES-D-23-0035.1.xml
   year: 2024
 - authors: Kazuo Saito and Le Duc and Takumi Matsunobu and Takuya Kurihana
+  citation: "Data Assimilation for Atmospheric, Oceanic and Hydrologic Applications\
+    \ (Vol \u2026, 2022"
   title: Perturbations by the ensemble transform
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=17860712157096184851
+  url: https://link.springer.com/chapter/10.1007/978-3-030-77722-7_5
   year: 2022
 - authors: Sydney Jenkins and Elisabeth J Moyer and Ian Foster and Takuya Kurihana
     and Rebecca Willett and Michael Maire and Kathryn Koenig and Ruby Werman
+  citation: AGU Fall Meeting Abstracts 2019, A51U-2673, 2019
   title: Developing unsupervised learning models for cloud classification
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=10436976378699948924
+  url: https://ui.adsabs.harvard.edu/abs/2019AGUFM.A51U2673J/abstract
   year: 2019
 - authors: Takuya Kurihana and Tyler J Skluzacek and Rafael Ferreira Da Silva and
     Valentine Anantharaj
+  citation: "SC24-W: Workshops of the International Conference for High Performance\
+    \ \u2026, 2024"
   title: Scalable Multi-Facility Workflows for Artificial Intelligence Applications
     in Climate Research
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=9540903638509245088
+  url: https://ieeexplore.ieee.org/abstract/document/10820731/
   year: 2024
 - authors: Lijing Wang and Takuya Kurihana and Aurelien Meray and Ilijana Mastilovic
     and Satyarth Praveen and Zexuan Xu and Milad Memarzadeh and Alexander Lavin and
     Haruko Wainwright
+  citation: arXiv preprint arXiv:2211.10884, 2022
   title: 'Multi-scale Digital Twin: Developing a fast and physics-informed surrogate
     model for groundwater contamination with uncertain climate models'
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=2264172897878300793
+  url: https://arxiv.org/abs/2211.10884
   year: 2022
 - authors: Takuya Kurihana and Ian Foster and Rebecca Willett and Michael Maire and
     Sydney Jenkins and Anant Matai and Elisabeth J Moyer
+  citation: AGU Fall Meeting Abstracts 2020, A059-0003, 2020
   title: A data-driven cloud classification framework based on a rotationally invariant
     autoencoder
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=18027861964684272634
+  url: https://ui.adsabs.harvard.edu/abs/2020AGUFMA059.0003K/abstract
   year: 2020
 - authors: Takuya Kurihana and Ian Foster and Elisabeth J Moyer and Rebecca Willett
     and Michael Maire and Sydney Jenkins and Kathryn Koenig and Ruby Werman
+  citation: AGU Fall Meeting Abstracts 2019, A53H-03, 2019
   title: Cloud Characterization With Deep Learning II
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=16118456645565637488
+  url: https://ui.adsabs.harvard.edu/abs/2019AGUFM.A53H..03K/abstract
   year: 2019
 - authors: Kazuo Saito and M Kunii and L Duc and T Kurihana
+  citation: "RIKEN International Symposium on Data Assimilation, Kobe, Japan.[Available\
+    \ \u2026, 2017"
   title: Perturbation Methods for Ensemble Data Assimilation
-  url: https://scholar.google.com/scholar?cluster=/scholar?hl=en&cites=10245022323870500151
+  url: https://scholar.google.com/scholar?cluster=10245022323870500151&hl=en&oi=scholarr
   year: 2017
 - authors: Takuya Kurihana and Moetasim Ashfaq and Matthew Horan and Zeeshan Aslam
+  citation: AGU24, 2024
   title: Knowledge-guided multimodal deep neural network toward seasonal precipitation
     forecasting in Central Southwest Asia
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://scholar.google.com/scholar?cluster=13034427007320334820&hl=en&oi=scholarr
   year: 2024
 - authors: G Padovani and V Anantharaj and L Sacco and T Kurihana and M Bunino and
     K Tsolaki and M Girone and F Antonio and C Sopranzetti and M Fronza and S Fiore
+  citation: "SC24-W: Workshops of the International Conference for High Performance\
+    \ \u2026, 2024"
   title: A software ecosystem for multi-level provenance management in large-scale
     scientific workflows for AI applications
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://ieeexplore.ieee.org/abstract/document/10820702/
   year: 2024
 - authors: Valentine Anantharaj and Takuya Kurihana and Sajal Dash and Gabriele Padovani
     and Sandro Fiore
+  citation: "IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium\
+    \ \u2026, 2024"
   title: Exploring Vision Transformers on the Frontier Supercomputer for Remote Sensing
     and Geoscientific Applications
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://ieeexplore.ieee.org/abstract/document/10640929/
   year: 2024
 - authors: Alex J Schuddeboom and Takuya Kurihana and Ian T Foster and Adrian J McDonald
     and Cameron McErlich and David Walle
+  citation: Authorea Preprints, 2024
   title: An Investigation of Multiple Classifications of Clouds Over Mid-latitude
     Cyclones
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://essopenarchive.org/doi/full/10.22541/essoar.171828430.03272929
   year: 2024
 - authors: Valentine Anantharaj and Takuya Kurihana and Gabriele Padovani and Ankur
     Kumar and Aristeidis Tsaris and Udaysankar Nair and Sandro Fiore and Ian Foster
+  citation: EGU24, 2024
   title: "Pretraining a foundation model using MODIS observations of the earth\u2019\
     s atmosphere"
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://meetingorganizer.copernicus.org/EGU24/EGU24-22461.html?pdf
   year: 2024
 - authors: Takuya Kurihana
+  citation: The University of Chicago, 2024
   title: Democratizing Access to Extensive Climate Datasets via Deep Learning-Powered
     Techniques
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://search.proquest.com/openview/365b3db1969642d18cf4e3c08a6c60e9/1?pq-origsite=gscholar&cbl=18750&diss=y
   year: 2024
 - authors: Takuya Kurihana and Kyongmin Yeo and Daniela Szwarcman and Bruce Elmegreen
     and Karthik Mukkavilli and Johannes Schmude and Levente Klein
+  citation: arXiv preprint arXiv:2312.13212, 2023
   title: A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention
     generative adversarial network
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://arxiv.org/abs/2312.13212
   year: 2023
 - authors: James A Franke and Takuya Kurihana and Elisabeth J Moyer and Ian T Foster
+  citation: AGU23, 2023
   title: Automated cloud classification via vision transformers for self-supervised
     semantic segmentation
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://scholar.google.com/scholar?cluster=6958514044242632405&hl=en&oi=scholarr
   year: 2023
 - authors: Donald D Lucas and Takuya Kurihana and Duncan Watson-Parris and James A
     Franke and Elisabeth J Moyer and Ian Foster
+  citation: AGU23, 2023
   title: Deep Learning in Climate, Weather, and Earth Sciences II Oral
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://scholar.google.com/scholar?cluster=876622642647043191&hl=en&oi=scholarr
   year: 2023
 - authors: Takuya Kurihana and Kyongmin Yeo and Daniela Szwarcman and Bruce Elmegreen
     and Surya Karthik Mukkavilli
+  citation: AGU Fall Meeting Abstracts 2023 (6), A12H-06, 2023
   title: A 3D spatial self-attention module on a non-uniform vertical coordinate for
     super-resolution wind fields
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://ui.adsabs.harvard.edu/abs/2023AGUFM.A12H..06K/abstract
   year: 2023
 - authors: Takuya Kurihana and James A Franke and Valentine G Anantharaj and Ian Foster
     and Elisabeth J Moyer
+  citation: AGU Fall Meeting Abstracts 2023 (1226), GC23M-1226, 2023
   title: 'SCuBA: Self-supervised Cloud Bias Assessment for evaluating cloud representations
     from high-resolution climate models against MODIS cloud images'
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://ui.adsabs.harvard.edu/abs/2023AGUFMGC23M1226K/abstract
   year: 2023
 - authors: James A Franke and Takuya Kurihana and Ziwei Wang and Ian Foster and Elisabeth
     J Moyer
+  citation: AGU Fall Meeting Abstracts 2022, A55N-1294, 2022
   title: Estimating the Impact of Large-scale Natural Aerosol Injections on Marine
     Cloud Populations with Unsupervised Classification in MODIS Images
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://ui.adsabs.harvard.edu/abs/2022AGUFM.A55N1294F/abstract
   year: 2022
 - authors: Takuya Kurihana and Elisabeth J Moyer and Ziwei Wang and James A Franke
     and Tatsu Monkman and Jacob Kuntzleman and Adam Chaikin-Lifshitz and Ian Foster
+  citation: AGU Fall Meeting Abstracts 2022, GC16C-06, 2022
   title: Global-scale unsupervised cloud classification to construct a novel AI-driven
     Cloud Classification Atlas (AICCA)
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://ui.adsabs.harvard.edu/abs/2022AGUFMGC16C..06K/abstract
   year: 2022
 - authors: Lijing Wang and Takuya Kurihana and Aurelien Meray and Ilijana Mastilovic
     and Satyarth Praveen and Zexuan Xu and Milad Memarzadeh and Alexander Lavin and
     Haruko M Wainwright
+  citation: AGU Fall Meeting Abstracts 2022, H45L-1534, 2022
   title: Physics-informed surrogate modeling for supporting climate resilience at
     groundwater contamination sites
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://ui.adsabs.harvard.edu/abs/2022AGUFM.H45L1534W/abstract
   year: 2022
 - authors: Takuya Kurihana and James Franke and Ian Foster and Ziwei Wang and Elisabeth
     Moyer
+  citation: arXiv preprint arXiv:2211.00860, 2022
   title: Insight into cloud processes from unsupervised classification with a rotationally
     invariant autoencoder
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://arxiv.org/abs/2211.00860
   year: 2022
 - authors: Takuya Kurihana and Elisabeth Moyer and Rebecca Willett and Davis Gilton
     and Ian Foster
+  citation: AGU Fall Meeting Abstracts 2021, A35C-1635, 2021
   title: Cloud Clustering Applied to MODIS Calibrated Radiances Over 2003 via Rotationally
     Invariant Autoencoder
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://ui.adsabs.harvard.edu/abs/2021AGUFM.A35C1635K/abstract
   year: 2021
 - authors: Takuya Kurihana and Elisabeth Moyer and Rebecca Willett and Davis Gilton
     and Ian Foster
+  citation: 2021 IEEE 17th International Conference on eScience (eScience), 253-254,
+    2021
   title: Cloud Clustering Over January 2003 via Scalable Rotationally Invariant Autoencoder
-  url: https://scholar.google.com/scholar?cluster=
+  url: https://ieeexplore.ieee.org/abstract/document/9582325/
   year: 2021
 - authors: Aurelien Meray and Lijing Wang and Takuya Kurihana and Ilijana Mastilovic
     and Satyarth Praveen and Zexuan Xu and Alexander Lavin and Milad Memarzadeh and
     Haruko Wainwright
+  citation: ''
   title: "FDLPhysics-Informed Surrogate Modeling for Supporting Climate Resilience\
     \ at Groundwater Contamination Sites\u201323123"
-  url: https://scholar.google.com/scholar?cluster=
-  year: Unknown Year
+  url: http://www.fdl4ai.com/wp-content/uploads/2023/06/FDLPhysics-Informed-Surrogate-Modeling-for-Supporting-Climate-Resilience-at-Groundwater-Contamination-Sites-%E2%80%93-23123.pdf
+  year: N/A
 - authors: T Kurihana and HL Tanaka
+  citation: ''
   title: Assimilation with faster super observation algorithm
-  url: https://scholar.google.com/scholar?cluster=
-  year: Unknown Year
+  url: https://www.morgan.edu/Documents/ADMINISTRATION/PROGRAMS/GESTAR/workshop/Kurihana.pdf
+  year: N/A
 - authors: James A Franke and Takuya Kurihana and Elisabeth J Moyer and Ian Foster
+  citation: AGU23, 0
   title: Self-Supervised Deep Learning Applications in the Earth Sciences
-  url: https://scholar.google.com/scholar?cluster=
-  year: Unknown Year
+  url: https://scholar.google.com/scholar?cluster=9737857237626390193&hl=en&oi=scholarr
+  year: N/A
 - authors: Takuya Kurihana
+  citation: ''
   title: On the Ensemble Transform Perturbation:(2) NHM-LETKF
-  url: https://scholar.google.com/scholar?cluster=
-  year: Unknown Year
+  url: https://scholar.google.com/scholar?cluster=8930756729250938000&hl=en&oi=scholarr
+  year: N/A
