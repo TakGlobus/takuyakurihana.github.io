@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Takuya Kurihana"
 title_separator          : "-"
 name                     : &name "Takuya Kurihana"
-description              : &description "Postdoctoral Researcher at The Oak Ridge National Laboratory"
-url                      : https://takglobus.github.io/takuyakurihana.github.io/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Senor Researcher at Fujitsu Research America"
+url                      : https://takglobus.github.io/takuyakurihana.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" #"takuyakurihana.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "takuyakurihana.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Takuya Kurihana"
   avatar           : "headshot3.jpg"
-  bio              : "I am a postdoctoral research associate at the ORNL (Ph.D in CS at The University of Chicago)"
+  bio              : "I am a Senior Research Staff at Fujitsu Research America, (Ph.D in CS at The University of Chicago)"
   location         : "Oak Ridge, TN"
   #location         : "Chicago, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #email            : "tkurihana@cs.uchicago.edu"
-  email            : "kurihanat@ornl.gov"
-  googlescholar    : "https://scholar.google.com/citations?user=LLiE6ZUAAAAJ&hl=ja"
+  #email            : "kurihanat@"
+  googlescholar    : "https://scholar.google.com/citations?user=LLiE6ZUAAAAJ&hl=en"
   github           : "TakGlobus"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Takuya-Kurihana" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -259,7 +259,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: 	America/New_York #America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
