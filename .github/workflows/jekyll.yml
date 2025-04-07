@@ -1,0 +1,35 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches: [ main ] # or 'master', depending on your repo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1' # Adjust as needed
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages # or 'main', depending on your repo
+          #destination_dir: ./ # Optional: specify a subdirectory if needed
+          #keep_files: false # Optional: set to true if you want to keep the files in the destination directory
+          #commit_message: "Deploy Jekyll site" # Optional: customize the commit message
