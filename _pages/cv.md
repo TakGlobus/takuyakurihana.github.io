@@ -11,5 +11,5 @@ redirect_from:
 
 
 {% include base_path %}
-you can also download directly here [\[CV\]](https://takglobus.github.io/takuyakurihana.github.io/assets/cv_takuya_kurihana_April2025.pdf) for my full resume. 
+Please download directly here [\[CV\]](https://takglobus.github.io/takuyakurihana.github.io/assets/cv_takuya_kurihana_April2025.pdf) for my full resume. 
 
